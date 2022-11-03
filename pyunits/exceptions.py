@@ -1,0 +1,2 @@
+class InvalidUnitException(Exception):
+    pass
